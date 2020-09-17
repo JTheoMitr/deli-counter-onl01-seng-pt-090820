@@ -1,1 +1,6 @@
-# Write your code here.
+katz_deli = []
+
+def take
+
+def line(katz_deli)
+  puts
