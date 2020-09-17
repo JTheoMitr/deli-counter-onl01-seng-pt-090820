@@ -1,4 +1,4 @@
 katz_deli = []
 
 def line(array)
-  the_line 
+  the_line = "The line is currently"
