@@ -1,4 +1,4 @@
 katz_deli = []
 
 def line(array)
-  puts
+  the_line 
