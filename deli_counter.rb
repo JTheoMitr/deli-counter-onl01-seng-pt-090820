@@ -1,6 +1,4 @@
 katz_deli = []
 
-def take
-
-def line(katz_deli)
+def line(array)
   puts
